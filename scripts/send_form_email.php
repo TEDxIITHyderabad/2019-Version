@@ -8,10 +8,10 @@ $comment = Trim(stripslashes($_POST['comment']));
 
 // validation
 $validationOK=true;
-if (!$validationOK) {
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
-  exit;
-}
+//if (!$validationOK) {
+ // print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
+ // exit;
+//}
 
 // prepare email body text
 $Body = "";
@@ -32,8 +32,8 @@ $Body .= "\n";
 $success = mail($EmailTo, $Subject, $Body, "From: $Email");
 
 // redirect to success page 
-if ($success){
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=/thank-you.html\">";
-}
+//if ($success){
+//  print "<meta http-equiv=\"refresh\" content=\"0;URL=/thank-you.html\">";
+//}
 
 ?>
