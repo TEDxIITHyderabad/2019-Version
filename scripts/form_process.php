@@ -179,7 +179,7 @@ function email_form_submission($form) {
         $mail->Port = 587;                                    // TCP port to connect to
 
         //Recipients
-        $mail->setFrom('contact@tedxiithyderabad.com', 'Mailer');
+        $mail->setFrom('info@tedxiithyderabad.com', 'Mailer');
         $mail->addAddress('contact@tedxiithyderabad.com', 'User');     // Add a recipient
         //$mail->addAddress('ellen@example.com');               // Name is optional
         //$mail->addReplyTo('info@example.com', 'Information');
