@@ -146,23 +146,70 @@ function recaptcha2_check_answer($secret, $response, $remoteIP) {
 }
 
 function email_form_submission($form) {
-	if(!defined('PHP_EOL'))
-		define('PHP_EOL', '\r\n');
+	$configuration = parse_ini_file('../../access.ini');
 
-	$form_email = ((array_key_exists('Email', $_REQUEST) && !empty($_REQUEST['Email'])) ? cleanup_email($_REQUEST['Email']) : '');
+    $emailPassword = trim ($configuration["emailPassword"]);
+    $username = trim ($configuration["username"]);
 
-	$to = $form['email']['to'];
-	$subject = $form['subject'];
-	$message = get_email_body($subject, $form['heading'], $form['fields'], $form['resources']);
-	$headers = get_email_headers($to, $form_email);	
+    if(!defined('PHP_EOL'))
+        define('PHP_EOL', '\r\n');
 
-	$sent = @mail($to, $subject, $message, $headers);
-	
-	if(!$sent)
-		die(get_form_error_response($form['resources']['failed_to_send_email']));
-	
-	$success_data = array(
-		'redirect' => $form['success_redirect']
+    $form_email = ((array_key_exists('Email', $_REQUEST) && !empty($_REQUEST['Email'])) ? cleanup_email($_REQUEST['Email']) : '');
+
+    $to = $form['email']['to'];
+    $subject = $form['subject'];
+    $message = get_email_body($subject, $form['heading'], $form['fields'], $form['resources']);
+    $headers = get_email_headers($to, $form_email); 
+
+    // $sent = @mail($to, $subject, $message, $headers);
+
+
+
+    $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+
+    try {
+        //Server settings
+        //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
+        $mail->isSMTP();                                      // Set mailer to use SMTP
+        $mail->Host = 'smtp.tedxiithyderabad.com';                       // Specify main and backup SMTP servers
+        $mail->SMTPAuth = true;                               // Enable SMTP authentication
+        $mail->Username = "contact@tedxiithyderabad";                          // SMTP username
+        $mail->Password = "TEDxIITH2019";                          // SMTP password
+        $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+        $mail->Port = 587;                                    // TCP port to connect to
+
+        //Recipients
+        $mail->setFrom('info@tedxiithyderabad.com', 'Mailer');
+        $mail->addAddress('contact@tedxiithyderabad.com', 'User');     // Add a recipient
+        //$mail->addAddress('ellen@example.com');               // Name is optional
+        //$mail->addReplyTo('info@example.com', 'Information');
+        //$mail->addCC('cc@example.com');
+        //$mail->addBCC('bcc@example.com');
+
+        //Attachments
+        //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+        //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+
+        //Content
+        $mail->isHTML(true);                                  // Set email format to HTML
+        $mail->Subject = $subject;
+        $mail->Body    = $message;
+        //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+
+        $sent = $mail->send();
+
+        if(!$sent)
+            die(get_form_error_response($form['resources']['failed_to_send_email']));
+
+        $success_data = array(
+            'redirect' => $form['success_redirect']
+        );
+    } catch (Exception $e) {
+        die(get_form_error_response($form['resources']['failed_to_send_email']));
+    }
+
+    echo get_form_response(true, $success_data);
     );
 	
 	echo get_form_response(true, $success_data);
