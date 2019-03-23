@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553334767326">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553341242396">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="4244554036" ref="past-speakers"/>
-    <file name="index.css" crc="4168869610" ref="index"/>
-    <file name="nomq_index.css" crc="230764510" ref="index"/>
+    <file name="index.css" crc="3830391053" ref="index"/>
+    <file name="nomq_index.css" crc="531437166" ref="index"/>
     <file name="sponsors.css" crc="4080798824" ref="sponsors"/>
   </folder>
   <folder name="assets">
@@ -124,7 +124,7 @@
     <file name="17280007556_04fb8c77ff_k-crop-u7888.jpg" crc="395287329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="17098221047_9b092b036e_k-crop-u7951.jpg" crc="209133845" seo="true" ref="index">
+    <file name="17098221047_9b092b036e_k-crop-u7951.jpg" crc="6775447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="17305733725_16bc5ff088_k-crop-u8077.jpg" crc="3810208143" seo="true" ref="index">
@@ -419,7 +419,7 @@
     <file name="u34560_states-a2.png" crc="4088169093" ref="index"/>
     <file name="u1374-73.png" crc="4023223509" ref="index"/>
     <file name="u14190-73.png" crc="166228314" ref="index"/>
-    <file name="pasted image 1544x1266-crop-u2365.png" crc="436456211" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u2365.png" crc="52352678" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19013.png" crc="299081072" ref="index"/>
@@ -698,7 +698,7 @@
     <file name="17280007556_04fb8c77ff_k-crop-u78883.jpg" crc="3837706057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="17098221047_9b092b036e_k-crop-u79513.jpg" crc="227383268" seo="true" ref="index">
+    <file name="17098221047_9b092b036e_k-crop-u79513.jpg" crc="4085750236" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="17305733725_16bc5ff088_k-crop-u80773.jpg" crc="503152370" seo="true" ref="index">
@@ -820,7 +820,7 @@
     <file name="1 2-u43574-fr.jpg" crc="3937784898" ref="index"/>
     <file name="1 2-u43574-fr2.jpg" crc="535376689" ref="index"/>
   </folder>
-  <file name="index.html" crc="108683033" seo="true" mt="1553334751333" redirect="true"/>
+  <file name="index.html" crc="280145482" seo="true" mt="1553341227521" redirect="true"/>
   <file name="sponsors.html" crc="282584540" seo="true" mt="1552887347862" redirect="false"/>
   <file name="past-speakers.html" crc="154257364" seo="true" mt="1553079537873" redirect="true"/>
 </manifest>
