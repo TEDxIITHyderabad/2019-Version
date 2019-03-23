@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553318947832">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553334767326">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="4244554036" ref="past-speakers"/>
-    <file name="index.css" crc="3762237471" ref="index"/>
-    <file name="nomq_index.css" crc="147190601" ref="index"/>
+    <file name="index.css" crc="4168869610" ref="index"/>
+    <file name="nomq_index.css" crc="230764510" ref="index"/>
     <file name="sponsors.css" crc="4080798824" ref="sponsors"/>
   </folder>
   <folder name="assets">
@@ -26,8 +26,8 @@
     <file name="form_check.php" crc="4020933626" ref="index"/>
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u1888.php" crc="4117533765" ref="index"/>
-    <file name="form-u2149.php" crc="430778031" ref="index"/>
+    <file name="form-u1888.php" crc="119670830" ref="index"/>
+    <file name="form-u2149.php" crc="303730708" ref="index"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:past-speakers"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:sponsors:past-speakers"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:past-speakers"/>
@@ -419,7 +419,7 @@
     <file name="u34560_states-a2.png" crc="4088169093" ref="index"/>
     <file name="u1374-73.png" crc="4023223509" ref="index"/>
     <file name="u14190-73.png" crc="166228314" ref="index"/>
-    <file name="pasted image 1544x1266-crop-u2365.png" crc="52352678" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u2365.png" crc="436456211" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19013.png" crc="299081072" ref="index"/>
@@ -820,7 +820,7 @@
     <file name="1 2-u43574-fr.jpg" crc="3937784898" ref="index"/>
     <file name="1 2-u43574-fr2.jpg" crc="535376689" ref="index"/>
   </folder>
-  <file name="index.html" crc="303419850" seo="true" mt="1553318931959" redirect="true"/>
+  <file name="index.html" crc="108683033" seo="true" mt="1553334751333" redirect="true"/>
   <file name="sponsors.html" crc="282584540" seo="true" mt="1552887347862" redirect="false"/>
   <file name="past-speakers.html" crc="154257364" seo="true" mt="1553079537873" redirect="true"/>
 </manifest>
