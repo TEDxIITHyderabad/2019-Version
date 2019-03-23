@@ -171,16 +171,16 @@ function email_form_submission($form) {
         //Server settings
         //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
         $mail->isSMTP();                                      // Set mailer to use SMTP
-        $mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
+        $mail->Host = 'smtp.tedxiithyderabad.com';                       // Specify main and backup SMTP servers
         $mail->SMTPAuth = true;                               // Enable SMTP authentication
-        $mail->Username = $username;                          // SMTP username
-        $mail->Password = $emailPassword;                          // SMTP password
+        $mail->Username = "contact@tedxiithyderabad";                          // SMTP username
+        $mail->Password = "TEDxIITH2019";                          // SMTP password
         $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
         $mail->Port = 587;                                    // TCP port to connect to
 
         //Recipients
         $mail->setFrom('info@example.com', 'Mailer');
-        $mail->addAddress('john@example.com', 'User');     // Add a recipient
+        $mail->addAddress('contact@tedxiithyderabad.com', 'User');     // Add a recipient
         //$mail->addAddress('ellen@example.com');               // Name is optional
         //$mail->addReplyTo('info@example.com', 'Information');
         //$mail->addCC('cc@example.com');
