@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553514080198">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553514526592">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
