@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553503176357">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553513093625">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="4244554036" ref="past-speakers"/>
-    <file name="index.css" crc="4280022025" ref="index"/>
-    <file name="nomq_index.css" crc="3817803490" ref="index"/>
+    <file name="index.css" crc="442538811" ref="index"/>
+    <file name="nomq_index.css" crc="72748953" ref="index"/>
     <file name="sponsors.css" crc="4080798824" ref="sponsors"/>
   </folder>
   <folder name="assets">
@@ -23,10 +23,6 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:past-speakers"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:past-speakers"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:past-speakers"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u1888.php" crc="4117533765" ref="index"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:past-speakers"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:sponsors:past-speakers"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:past-speakers"/>
@@ -148,10 +144,6 @@
       <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="u1374-7.png" crc="205747335" ref="index"/>
-    <file name="u1901.png" crc="4225769707" ref="index"/>
-    <file name="u1901-ferr.png" crc="4009704655" ref="index"/>
-    <file name="u1894.png" crc="90311845" ref="index"/>
-    <file name="u1894-r.png" crc="422296901" ref="index"/>
     <file name="u2104-10.png" crc="450688643" ref="index"/>
     <file name="icons8-marker-48.png" crc="524704692" seo="true" ref="index:past-speakers">
       <caption webpage="index" alt=""/>
@@ -207,28 +199,28 @@
     </file>
     <file name="u17150_states.png" crc="4208766818" ref="index"/>
     <file name="u17150_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17150_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17150_states-a.png" crc="147500052" ref="index"/>
     <file name="u17752_states.png" crc="4208766818" ref="index"/>
     <file name="u17752_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17752_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17752_states-a.png" crc="147500052" ref="index"/>
     <file name="u17764_states.png" crc="4208766818" ref="index"/>
     <file name="u17764_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17764_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17764_states-a.png" crc="147500052" ref="index"/>
     <file name="u17776_states.png" crc="4208766818" ref="index"/>
     <file name="u17776_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17776_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17776_states-a.png" crc="147500052" ref="index"/>
     <file name="u17788_states.png" crc="4208766818" ref="index"/>
     <file name="u17788_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17788_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17788_states-a.png" crc="147500052" ref="index"/>
     <file name="u17800_states.png" crc="4208766818" ref="index"/>
     <file name="u17800_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17800_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17800_states-a.png" crc="147500052" ref="index"/>
     <file name="u17812_states.png" crc="4208766818" ref="index"/>
     <file name="u17812_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17812_states-a.png" crc="8328830" ref="index"/>
+    <file name="u17812_states-a.png" crc="147500052" ref="index"/>
     <file name="u17824_states.png" crc="4208766818" ref="index"/>
     <file name="u17824_states-r.png" crc="214594236" ref="index"/>
-    <file name="u17824_states-a.png" crc="4276001781" ref="index"/>
+    <file name="u17824_states-a.png" crc="147500052" ref="index"/>
     <file name="tedx_logo_rgb-black1.jpg" crc="4045000577" seo="true" ref="index:past-speakers">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -316,10 +308,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1374-72.png" crc="426799765" ref="index"/>
-    <file name="u19012.png" crc="15943059" ref="index"/>
-    <file name="u1901-ferr2.png" crc="483799291" ref="index"/>
-    <file name="u18942.png" crc="505571261" ref="index"/>
-    <file name="u1894-r2.png" crc="3793554288" ref="index"/>
     <file name="u2104-102.png" crc="4030950577" ref="index"/>
     <file name="u2109_states2.png" crc="436248148" ref="index"/>
     <file name="u2109_states-r2.png" crc="71166741" ref="index"/>
@@ -417,10 +405,6 @@
     <file name="pasted image 1544x1266-crop-u2365.png" crc="4109151432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u19013.png" crc="299081072" ref="index"/>
-    <file name="u1901-ferr3.png" crc="6464818" ref="index"/>
-    <file name="u18943.png" crc="4084850332" ref="index"/>
-    <file name="u1894-r3.png" crc="4054825040" ref="index"/>
     <file name="pasted image 1055x829198x156.png" crc="198772658" seo="true" ref="past-speakers">
       <caption webpage="index" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -665,28 +649,28 @@
     </file>
     <file name="u17150_states2.png" crc="151824425" ref="index"/>
     <file name="u17150_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17150_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17150_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17752_states2.png" crc="151824425" ref="index"/>
     <file name="u17752_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17752_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17752_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17764_states2.png" crc="151824425" ref="index"/>
     <file name="u17764_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17764_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17764_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17776_states2.png" crc="151824425" ref="index"/>
     <file name="u17776_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17776_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17776_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17788_states2.png" crc="151824425" ref="index"/>
     <file name="u17788_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17788_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17788_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17800_states2.png" crc="151824425" ref="index"/>
     <file name="u17800_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17800_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17800_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17812_states2.png" crc="151824425" ref="index"/>
     <file name="u17812_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17812_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17812_states-a2.png" crc="155919846" ref="index"/>
     <file name="u17824_states2.png" crc="151824425" ref="index"/>
     <file name="u17824_states-r2.png" crc="84068086" ref="index"/>
-    <file name="u17824_states-a2.png" crc="3875993074" ref="index"/>
+    <file name="u17824_states-a2.png" crc="155919846" ref="index"/>
     <file name="u1380-112.png" crc="4007711314" ref="index"/>
     <file name="17280007556_04fb8c77ff_k-crop-u78883.jpg" crc="3837706057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -753,10 +737,6 @@
     <file name="u1374-74.png" crc="3936836310" ref="index"/>
     <file name="u1380-114.png" crc="4170681496" ref="index"/>
     <file name="u14190-74.png" crc="504522990" ref="index"/>
-    <file name="u19014.png" crc="4091031262" ref="index"/>
-    <file name="u1901-ferr4.png" crc="3942320032" ref="index"/>
-    <file name="u18944.png" crc="182956509" ref="index"/>
-    <file name="u1894-r4.png" crc="4083595039" ref="index"/>
     <file name="u2104-104.png" crc="3962786750" ref="index"/>
     <file name="u2109_states4.png" crc="69052287" ref="index"/>
     <file name="u2109_states-r4.png" crc="4018149" ref="index"/>
@@ -809,18 +789,29 @@
     </file>
     <file name="1 2-u43574-fr.jpg" crc="3937784898" ref="index"/>
     <file name="1 2-u43574-fr2.jpg" crc="535376689" ref="index"/>
-    <file name="u45965-10.png" crc="4172987879" ref="index"/>
-    <file name="u45965-102.png" crc="220657127" ref="index"/>
-    <file name="u45965-103.png" crc="3835625045" ref="index"/>
+    <file name="u45965-10.png" crc="347181674" ref="index"/>
+    <file name="u45965-102.png" crc="3879439392" ref="index"/>
+    <file name="u45965-103.png" crc="516752700" ref="index"/>
     <file name="u46234-8.png" crc="34209808" ref="index"/>
     <file name="u46022-9.png" crc="429339942" ref="index"/>
     <file name="u46007-4.png" crc="103116870" ref="index"/>
-    <file name="u1894-fs.png" crc="422296901" ref="index"/>
-    <file name="u1894-fs2.png" crc="3793554288" ref="index"/>
-    <file name="u1894-fs3.png" crc="4054825040" ref="index"/>
-    <file name="u1894-fs4.png" crc="4083595039" ref="index"/>
+    <file name="u46427_states.png" crc="3942054326" ref="index"/>
+    <file name="u46427_states-r.png" crc="76555766" ref="index"/>
+    <file name="u46616-5.png" crc="3761464447" ref="index"/>
+    <file name="u46427_states2.png" crc="97535187" ref="index"/>
+    <file name="u46427_states-r2.png" crc="79941037" ref="index"/>
+    <file name="u46616-52.png" crc="455564698" ref="index"/>
+    <file name="u46427_states3.png" crc="4023401834" ref="index"/>
+    <file name="u46427_states-r3.png" crc="4254104875" ref="index"/>
+    <file name="u46616-53.png" crc="231729976" ref="index"/>
+    <file name="u46427_states4.png" crc="133219880" ref="index"/>
+    <file name="u46427_states-r4.png" crc="62143723" ref="index"/>
+    <file name="u46616-54.png" crc="3823270149" ref="index"/>
+    <file name="u46427_states5.png" crc="253775564" ref="index"/>
+    <file name="u46427_states-r5.png" crc="4275119338" ref="index"/>
+    <file name="u46616-55.png" crc="4029022288" ref="index"/>
   </folder>
-  <file name="index.html" crc="413280584" seo="true" mt="1553503154680" redirect="true"/>
+  <file name="index.html" crc="4089292245" seo="true" mt="1553513071818" redirect="true"/>
   <file name="sponsors.html" crc="282584540" seo="true" mt="1552887347862" redirect="false"/>
   <file name="past-speakers.html" crc="154257364" seo="true" mt="1553079537873" redirect="true"/>
 </manifest>
