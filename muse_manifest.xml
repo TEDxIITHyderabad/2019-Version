@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553501123670">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553503176357">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="4244554036" ref="past-speakers"/>
-    <file name="index.css" crc="3981114187" ref="index"/>
-    <file name="nomq_index.css" crc="147190601" ref="index"/>
+    <file name="index.css" crc="4280022025" ref="index"/>
+    <file name="nomq_index.css" crc="3817803490" ref="index"/>
     <file name="sponsors.css" crc="4080798824" ref="sponsors"/>
   </folder>
   <folder name="assets">
@@ -414,7 +414,7 @@
     <file name="u34560_states-a2.png" crc="4088169093" ref="index"/>
     <file name="u1374-73.png" crc="4023223509" ref="index"/>
     <file name="u14190-73.png" crc="166228314" ref="index"/>
-    <file name="pasted image 1544x1266-crop-u2365.png" crc="52352678" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u2365.png" crc="4109151432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19013.png" crc="299081072" ref="index"/>
@@ -815,8 +815,12 @@
     <file name="u46234-8.png" crc="34209808" ref="index"/>
     <file name="u46022-9.png" crc="429339942" ref="index"/>
     <file name="u46007-4.png" crc="103116870" ref="index"/>
+    <file name="u1894-fs.png" crc="422296901" ref="index"/>
+    <file name="u1894-fs2.png" crc="3793554288" ref="index"/>
+    <file name="u1894-fs3.png" crc="4054825040" ref="index"/>
+    <file name="u1894-fs4.png" crc="4083595039" ref="index"/>
   </folder>
-  <file name="index.html" crc="271963624" seo="true" mt="1553501101750" redirect="true"/>
+  <file name="index.html" crc="413280584" seo="true" mt="1553503154680" redirect="true"/>
   <file name="sponsors.html" crc="282584540" seo="true" mt="1552887347862" redirect="false"/>
   <file name="past-speakers.html" crc="154257364" seo="true" mt="1553079537873" redirect="true"/>
 </manifest>
