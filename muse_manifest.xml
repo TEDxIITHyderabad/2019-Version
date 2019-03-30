@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553876311823">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553931027343">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="4109298188" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="104828220" ref="past-speakers"/>
-    <file name="index.css" crc="70233332" ref="index"/>
-    <file name="nomq_index.css" crc="3967687667" ref="index"/>
-    <file name="sponsors.css" crc="502087458" ref="sponsors"/>
-    <file name="nomq_sponsors.css" crc="301411087" ref="sponsors"/>
-    <file name="team.css" crc="4139944040" ref="team"/>
+    <file name="index.css" crc="4014854570" ref="index"/>
+    <file name="nomq_index.css" crc="4075685469" ref="index"/>
+    <file name="sponsors.css" crc="133593032" ref="sponsors"/>
+    <file name="nomq_sponsors.css" crc="337583751" ref="sponsors"/>
+    <file name="team.css" crc="3874911138" ref="team"/>
     <file name="nomq_team.css" crc="4288962739" ref="team"/>
   </folder>
   <folder name="assets">
@@ -104,7 +104,7 @@
     <file name="17280007556_04fb8c77ff_k-crop-u7888.jpg" crc="395287329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="17098221047_9b092b036e_k-crop-u7951.jpg" crc="6775447" seo="true" ref="index">
+    <file name="17098221047_9b092b036e_k-crop-u7951.jpg" crc="209133845" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="17305733725_16bc5ff088_k-crop-u8077.jpg" crc="3810208143" seo="true" ref="index">
@@ -126,9 +126,9 @@
     <file name="pasted image 1055x829.png" crc="440379558" seo="true" ref="index:sponsors:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="u1374-7.png" crc="205747335" ref="index"/>
     <file name="u2104-10.png" crc="450688643" ref="index"/>
@@ -142,21 +142,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="u2109_states.png" crc="329934955" ref="index"/>
     <file name="u2109_states-r.png" crc="79849176" ref="index"/>
@@ -180,25 +180,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
     </file>
     <file name="u14218.png" crc="399890227" ref="index"/>
     <file name="u14218-r.png" crc="399890227" ref="index"/>
@@ -221,28 +221,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
     </file>
     <file name="twitter-circular-button copy.png" crc="96135753" seo="true" ref="index:past-speakers:sponsors:team">
       <caption webpage="index" alt=""/>
@@ -255,28 +255,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
     </file>
     <file name="social-linkedin-circular-button.png" crc="344830147" seo="true" ref="index:past-speakers:sponsors:team">
       <caption webpage="index" alt=""/>
@@ -289,33 +289,33 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
     </file>
     <file name="17280007556_04fb8c77ff_k-crop-u78882.jpg" crc="3898155275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="17098221047_9b092b036e_k-crop-u79512.jpg" crc="4068760871" seo="true" ref="index">
+    <file name="17098221047_9b092b036e_k-crop-u79512.jpg" crc="4100000690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="17305733725_16bc5ff088_k-crop-u80772.jpg" crc="3907137343" seo="true" ref="index">
@@ -369,22 +369,22 @@
     <file name="u2109_states-r3.png" crc="37612559" ref="index"/>
     <file name="u26629.png" crc="3984885124" ref="index"/>
     <file name="u26629-r.png" crc="3984885124" ref="index"/>
-    <file name="hamburger icon.png" crc="4114235834" ref="index:past-speakers:sponsors:team">
+    <file name="hamburger icon.png" crc="4114235834" ref="index:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="u26636.png" crc="232415892" ref="index"/>
     <file name="u26636-r.png" crc="232415892" ref="index"/>
@@ -498,10 +498,10 @@
     <file name="u2104-104.png" crc="3962786750" ref="index"/>
     <file name="u2109_states4.png" crc="69052287" ref="index"/>
     <file name="u2109_states-r4.png" crc="4018149" ref="index"/>
-    <file name="register bg 460x215-26-crop-u44053.png" crc="4033694713" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u44053.png" crc="347138459" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="register bg 460x215-26-crop-u440532.png" crc="493038630" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u440532.png" crc="139203568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tedxiith past speaker banners-25-crop-u44169.png" crc="4072258511" seo="true" ref="index">
@@ -541,9 +541,9 @@
     <file name="bg web-05.png" crc="474615484" seo="true" ref="index:sponsors:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
       <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="1 2.jpg" crc="229869669" ref="index">
       <caption webpage="index" alt=""/>
@@ -570,7 +570,7 @@
     <file name="u46427_states5.png" crc="253775564" ref="index"/>
     <file name="u46427_states-r5.png" crc="4275119338" ref="index"/>
     <file name="u46616-55.png" crc="4029022288" ref="index"/>
-    <file name="register bg 460x215-26-crop-u65491.png" crc="4033694713" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u65491.png" crc="347138459" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65412_states.png" crc="3942054326" ref="index"/>
@@ -613,7 +613,7 @@
     <file name="pasted image 1344x1589-crop-u65358.png" crc="3961249686" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1544x1266-crop-u65360.png" crc="3979859947" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u65360.png" crc="4144626566" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65368-102.png" crc="4064063317" ref="index"/>
@@ -678,13 +678,13 @@
     <file name="17280007556_04fb8c77ff_k-crop-u78884.jpg" crc="3837706057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="17098221047_9b092b036e_k-crop-u79514.jpg" crc="4085750236" seo="true" ref="index">
+    <file name="17098221047_9b092b036e_k-crop-u79514.jpg" crc="227383268" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="17305733725_16bc5ff088_k-crop-u80774.jpg" crc="503152370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1544x1266-crop-u653602.png" crc="301657651" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u653602.png" crc="4029296539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65368-104.png" crc="4104909998" ref="index"/>
@@ -758,7 +758,7 @@
     <file name="u19476-66.png" crc="4282885380" ref="index"/>
     <file name="speaker icon-u27957-fr5.png" crc="3850698977" ref="index"/>
     <file name="u19470-66.png" crc="4163041560" ref="index"/>
-    <file name="register bg 460x215-26-crop-u654912.png" crc="493038630" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u654912.png" crc="139203568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1374-75.png" crc="3936836310" ref="index"/>
@@ -767,7 +767,7 @@
     <file name="u65487-75.png" crc="3936836310" ref="index"/>
     <file name="u65489-115.png" crc="4170681496" ref="index"/>
     <file name="u65488-75.png" crc="504522990" ref="index"/>
-    <file name="pasted image 1544x1266-crop-u653603.png" crc="436456211" seo="true" ref="index">
+    <file name="pasted image 1544x1266-crop-u653603.png" crc="3970076876" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65410-105.png" crc="122978500" ref="index"/>
@@ -876,23 +876,6 @@
     <file name="u58056_states-r.png" crc="37612559" ref="sponsors"/>
     <file name="u58057-10.png" crc="516752700" ref="sponsors"/>
     <file name="u58001-6.png" crc="4250008291" ref="sponsors"/>
-    <file name="u61920.png" crc="3984885124" ref="sponsors"/>
-    <file name="u61920-r.png" crc="3984885124" ref="sponsors"/>
-    <file name="u61943.png" crc="232415892" ref="sponsors"/>
-    <file name="u61943-r.png" crc="232415892" ref="sponsors"/>
-    <file name="u61943-a.png" crc="232415892" ref="sponsors"/>
-    <file name="u61928.png" crc="4073539374" ref="sponsors"/>
-    <file name="u61928-r.png" crc="4073539374" ref="sponsors"/>
-    <file name="u61928-a.png" crc="4073539374" ref="sponsors"/>
-    <file name="u61949.png" crc="3788177759" ref="sponsors"/>
-    <file name="u61949-r.png" crc="3788177759" ref="sponsors"/>
-    <file name="u61949-a.png" crc="3788177759" ref="sponsors"/>
-    <file name="u61936.png" crc="190243996" ref="sponsors"/>
-    <file name="u61936-r.png" crc="190243996" ref="sponsors"/>
-    <file name="u61936-a.png" crc="190243996" ref="sponsors"/>
-    <file name="u61957.png" crc="4246381147" ref="sponsors"/>
-    <file name="u61957-r.png" crc="4246381147" ref="sponsors"/>
-    <file name="u61957-a.png" crc="4246381147" ref="sponsors"/>
     <file name="u61732-10.png" crc="3962786750" ref="sponsors"/>
     <file name="u61731_states.png" crc="69052287" ref="sponsors"/>
     <file name="u61731_states-r.png" crc="4018149" ref="sponsors"/>
@@ -1175,28 +1158,27 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="team" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
     </file>
     <file name="u28509-43.png" crc="3853743235" ref="index"/>
     <file name="u65408-42.png" crc="128595396" ref="index"/>
@@ -1264,7 +1246,11 @@
     <file name="caprusit---gold-partner.png" crc="3766128251" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
     </file>
-    <file name="ola.png" crc="429017180" ref="sponsors">
+    <file name="ola.png" crc="4029800357" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="sponsors" alt=""/>
     </file>
     <file name="popicorn.png" crc="4048626438" ref="sponsors">
@@ -1281,11 +1267,6 @@
     <file name="u74862_states-r.png" crc="79941037" ref="sponsors"/>
     <file name="u74863-5.png" crc="4063078121" ref="sponsors"/>
     <file name="u95980-4.png" crc="3996342949" ref="sponsors"/>
-    <file name="caprusit---gold-partner-u85010-fr.png" crc="4153852749" ref="sponsors"/>
-    <file name="ola-u84791-fr.png" crc="4091122072" ref="sponsors"/>
-    <file name="popicorn-u84609-fr.png" crc="221949120" ref="sponsors"/>
-    <file name="shubang-u84501-fr.png" crc="4197876574" ref="sponsors"/>
-    <file name="shutterstock-u84642-fr.png" crc="492306722" ref="sponsors"/>
     <file name="u71922-8.png" crc="150603088" ref="sponsors"/>
     <file name="u71924_states.png" crc="4177379833" ref="sponsors"/>
     <file name="u71924_states-r.png" crc="212871580" ref="sponsors"/>
@@ -1332,11 +1313,6 @@
     <file name="u73104-r3.png" crc="4055523409" ref="sponsors"/>
     <file name="u731363.png" crc="409377572" ref="sponsors"/>
     <file name="u73136-r3.png" crc="409377572" ref="sponsors"/>
-    <file name="caprusit---gold-partner-u85010-fr2.png" crc="4178119465" ref="sponsors"/>
-    <file name="ola-u84791-fr2.png" crc="4254810259" ref="sponsors"/>
-    <file name="popicorn-u84609-fr2.png" crc="3799210809" ref="sponsors"/>
-    <file name="shubang-u84501-fr2.png" crc="3890560714" ref="sponsors"/>
-    <file name="shutterstock-u84642-fr2.png" crc="327112844" ref="sponsors"/>
     <file name="u72070-8.png" crc="262024013" ref="sponsors"/>
     <file name="u72072_states.png" crc="4127394090" ref="sponsors"/>
     <file name="u72072_states-r.png" crc="4254104875" ref="sponsors"/>
@@ -1360,21 +1336,11 @@
     <file name="u73104-r4.png" crc="4051549444" ref="sponsors"/>
     <file name="u731364.png" crc="3937885595" ref="sponsors"/>
     <file name="u73136-r4.png" crc="3937885595" ref="sponsors"/>
-    <file name="ola-u84791-fr3.png" crc="3764603523" ref="sponsors"/>
-    <file name="shubang-u84501-fr3.png" crc="3801299627" ref="sponsors"/>
-    <file name="caprusit---gold-partner-u85010-fr3.png" crc="3899066143" ref="sponsors"/>
-    <file name="popicorn-u84609-fr3.png" crc="436248948" ref="sponsors"/>
-    <file name="shutterstock-u84642-fr3.png" crc="250717639" ref="sponsors"/>
     <file name="u72240-8.png" crc="24230942" ref="sponsors"/>
     <file name="u72239_states.png" crc="3793015660" ref="sponsors"/>
     <file name="u72239_states-r.png" crc="62143723" ref="sponsors"/>
     <file name="u72238-5.png" crc="316257813" ref="sponsors"/>
     <file name="u95980-44.png" crc="381763131" ref="sponsors"/>
-    <file name="caprusit---gold-partner-u85010-fr4.png" crc="4230207710" ref="sponsors"/>
-    <file name="ola-u84791-fr4.png" crc="3953086582" ref="sponsors"/>
-    <file name="popicorn-u84609-fr4.png" crc="524646307" ref="sponsors"/>
-    <file name="shubang-u84501-fr4.png" crc="59423514" ref="sponsors"/>
-    <file name="shutterstock-u84642-fr4.png" crc="4056156711" ref="sponsors"/>
     <file name="u72346-6.png" crc="4224217287" ref="sponsors"/>
     <file name="u72345_states.png" crc="493504709" ref="sponsors"/>
     <file name="u72345_states-r.png" crc="4275119338" ref="sponsors"/>
@@ -1733,9 +1699,55 @@
     <file name="u92804-4.png" crc="103116870" ref="team"/>
     <file name="u96087-4-a5.png" crc="237513784" ref="team"/>
     <file name="u92506-6.png" crc="466471929" ref="team"/>
+    <file name="u97360-4.png" crc="3911841543" ref="sponsors"/>
+    <file name="ola-u97134-fr.png" crc="4132069713" ref="sponsors"/>
+    <file name="u97384-4.png" crc="4135540794" ref="sponsors"/>
+    <file name="u97399-4.png" crc="455498041" ref="sponsors"/>
+    <file name="u97414-4.png" crc="211821955" ref="sponsors"/>
+    <file name="u97429-4.png" crc="3894908041" ref="sponsors"/>
+    <file name="caprusit---gold-partner-u97128-fr.png" crc="4153852749" ref="sponsors"/>
+    <file name="u97360-42.png" crc="534073806" ref="sponsors"/>
+    <file name="ola-u97134-fr2.png" crc="4058222801" ref="sponsors"/>
+    <file name="u97384-42.png" crc="4198957391" ref="sponsors"/>
+    <file name="popicorn-u97130-fr.png" crc="221949120" ref="sponsors"/>
+    <file name="u97399-42.png" crc="4100168530" ref="sponsors"/>
+    <file name="shubang-u97136-fr.png" crc="4197876574" ref="sponsors"/>
+    <file name="u97429-42.png" crc="3901572518" ref="sponsors"/>
+    <file name="shutterstock-u97132-fr.png" crc="492306722" ref="sponsors"/>
+    <file name="u97414-42.png" crc="520524771" ref="sponsors"/>
+    <file name="caprusit---gold-partner-u97128-fr2.png" crc="4178119465" ref="sponsors"/>
+    <file name="u97360-43.png" crc="3959689072" ref="sponsors"/>
+    <file name="ola-u97134-fr3.png" crc="3844762550" ref="sponsors"/>
+    <file name="u97384-43.png" crc="67996507" ref="sponsors"/>
+    <file name="popicorn-u97130-fr2.png" crc="3799210809" ref="sponsors"/>
+    <file name="u97399-43.png" crc="4061280412" ref="sponsors"/>
+    <file name="shubang-u97136-fr2.png" crc="3890560714" ref="sponsors"/>
+    <file name="u97429-43.png" crc="4059509739" ref="sponsors"/>
+    <file name="shutterstock-u97132-fr2.png" crc="327112844" ref="sponsors"/>
+    <file name="u97414-43.png" crc="434825409" ref="sponsors"/>
+    <file name="caprusit---gold-partner-u97128-fr3.png" crc="3899066143" ref="sponsors"/>
+    <file name="u97360-44.png" crc="356577477" ref="sponsors"/>
+    <file name="ola-u97134-fr4.png" crc="288547509" ref="sponsors"/>
+    <file name="u97384-44.png" crc="321693643" ref="sponsors"/>
+    <file name="u97399-44.png" crc="3775960145" ref="sponsors"/>
+    <file name="popicorn-u97130-fr3.png" crc="436248948" ref="sponsors"/>
+    <file name="u97414-44.png" crc="262062960" ref="sponsors"/>
+    <file name="shutterstock-u97132-fr3.png" crc="250717639" ref="sponsors"/>
+    <file name="shubang-u97136-fr3.png" crc="3801299627" ref="sponsors"/>
+    <file name="u97429-44.png" crc="3918596942" ref="sponsors"/>
+    <file name="caprusit---gold-partner-u97128-fr4.png" crc="4230207710" ref="sponsors"/>
+    <file name="u97360-45.png" crc="255979643" ref="sponsors"/>
+    <file name="ola-u97134-fr5.png" crc="285354818" ref="sponsors"/>
+    <file name="u97384-45.png" crc="4131908570" ref="sponsors"/>
+    <file name="u97399-45.png" crc="4007711712" ref="sponsors"/>
+    <file name="popicorn-u97130-fr4.png" crc="524646307" ref="sponsors"/>
+    <file name="u97414-45.png" crc="80045507" ref="sponsors"/>
+    <file name="shutterstock-u97132-fr4.png" crc="4056156711" ref="sponsors"/>
+    <file name="shubang-u97136-fr4.png" crc="59423514" ref="sponsors"/>
+    <file name="u97429-45.png" crc="119267297" ref="sponsors"/>
   </folder>
-  <file name="index.html" crc="393626870" seo="true" mt="1553876238621" redirect="true"/>
-  <file name="sponsors.html" crc="4043076266" seo="true" mt="1553876160725" redirect="true"/>
+  <file name="index.html" crc="149429159" seo="true" mt="1553930971454" redirect="true"/>
+  <file name="sponsors.html" crc="527501252" seo="true" mt="1553930970587" redirect="true"/>
   <file name="past-speakers.html" crc="373074875" seo="true" mt="1553876188647" redirect="true"/>
-  <file name="team.html" crc="4127996758" seo="true" mt="1553876237807" redirect="true"/>
+  <file name="team.html" crc="195613738" seo="true" mt="1553930968145" redirect="true"/>
 </manifest>
