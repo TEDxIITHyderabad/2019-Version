@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554219383967">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554220383440">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
-    <file name="index.css" crc="422585610" ref="index"/>
-    <file name="nomq_index.css" crc="3824189197" ref="index"/>
+    <file name="index.css" crc="3818557682" ref="index"/>
+    <file name="nomq_index.css" crc="4062735804" ref="index"/>
     <file name="sponsors.css" crc="4129138313" ref="sponsors"/>
     <file name="nomq_sponsors.css" crc="457242543" ref="sponsors"/>
     <file name="past-speakers.css" crc="286703908" ref="past-speakers"/>
@@ -71,7 +71,6 @@
     <file name="u1374-7.png" crc="205747335" ref="index"/>
     <file name="u2104-10.png" crc="450688643" ref="index"/>
     <file name="icons8-marker-48.png" crc="524704692" seo="true" ref="index:sponsors:past-speakers:team">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -232,9 +231,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1374-72.png" crc="4183807242" ref="index"/>
-    <file name="u2104-102.png" crc="514844818" ref="index"/>
-    <file name="u2109_states2.png" crc="3899246148" ref="index"/>
-    <file name="u2109_states-r2.png" crc="525497651" ref="index"/>
+    <file name="u2104-102.png" crc="4030950577" ref="index"/>
+    <file name="u2109_states2.png" crc="436248148" ref="index"/>
+    <file name="u2109_states-r2.png" crc="71166741" ref="index"/>
     <file name="u7252.png" crc="4077705847" ref="index"/>
     <file name="u725-r2.png" crc="3973041047" ref="index"/>
     <file name="u8022.png" crc="142720177" ref="index"/>
@@ -261,9 +260,9 @@
     <file name="u19470-64.png" crc="3950459868" ref="index"/>
     <file name="u1374-73.png" crc="426799765" ref="index"/>
     <file name="u14190-73.png" crc="258587896" ref="index"/>
-    <file name="u2104-103.png" crc="4030950577" ref="index"/>
-    <file name="u2109_states3.png" crc="436248148" ref="index"/>
-    <file name="u2109_states-r3.png" crc="71166741" ref="index"/>
+    <file name="u2104-103.png" crc="4104909998" ref="index"/>
+    <file name="u2109_states3.png" crc="3784221618" ref="index"/>
+    <file name="u2109_states-r3.png" crc="37612559" ref="index"/>
     <file name="hamburger icon.png" crc="4114235834" ref="index:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -318,13 +317,13 @@
     <file name="u1374-74.png" crc="4023223509" ref="index"/>
     <file name="u1380-114.png" crc="4257262663" ref="index"/>
     <file name="u14190-74.png" crc="166228314" ref="index"/>
-    <file name="u2104-104.png" crc="4104909998" ref="index"/>
-    <file name="u2109_states4.png" crc="3784221618" ref="index"/>
-    <file name="u2109_states-r4.png" crc="37612559" ref="index"/>
-    <file name="register bg 460x215-26-crop-u44053.png" crc="4244872887" seo="true" ref="index">
+    <file name="u2104-104.png" crc="3962786750" ref="index"/>
+    <file name="u2109_states4.png" crc="69052287" ref="index"/>
+    <file name="u2109_states-r4.png" crc="4018149" ref="index"/>
+    <file name="register bg 460x215-26-crop-u44053.png" crc="347138459" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="register bg 460x215-26-crop-u440532.png" crc="198359264" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u440532.png" crc="139203568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tedxiith past speaker banners-25-crop-u44169.png" crc="4072258511" seo="true" ref="index">
@@ -393,14 +392,14 @@
     <file name="u46427_states5.png" crc="253775564" ref="index"/>
     <file name="u46427_states-r5.png" crc="4275119338" ref="index"/>
     <file name="u46616-55.png" crc="4029022288" ref="index"/>
-    <file name="register bg 460x215-26-crop-u65491.png" crc="4244872887" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u65491.png" crc="347138459" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65412_states.png" crc="3942054326" ref="index"/>
     <file name="u65412_states-r.png" crc="76555766" ref="index"/>
     <file name="u65413-5.png" crc="3761464447" ref="index"/>
     <file name="u65414-6.png" crc="3867096024" ref="index"/>
-    <file name="pasted image 1055x829-crop-u65362.png" crc="4054922628" seo="true" ref="index">
+    <file name="pasted image 1055x829-crop-u65362.png" crc="19604923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65368-10.png" crc="450688643" ref="index"/>
@@ -412,7 +411,7 @@
     <file name="u65412_states-r2.png" crc="79941037" ref="index"/>
     <file name="u65413-52.png" crc="455564698" ref="index"/>
     <file name="u65487-7.png" crc="205747335" ref="index"/>
-    <file name="u65489-11.png" crc="215867381" ref="index"/>
+    <file name="u65489-11.png" crc="9666082" ref="index"/>
     <file name="u65488-7.png" crc="403274094" ref="index"/>
     <file name="u65539.png" crc="464690300" ref="index"/>
     <file name="u65539-r.png" crc="150594616" ref="index"/>
@@ -436,8 +435,8 @@
     <file name="u65412_states3.png" crc="4124959956" ref="index"/>
     <file name="u65412_states-r3.png" crc="3787211831" ref="index"/>
     <file name="u65413-53.png" crc="4282968553" ref="index"/>
-    <file name="u65487-72.png" crc="4183807242" ref="index"/>
-    <file name="u65489-112.png" crc="189692543" ref="index"/>
+    <file name="u65487-72.png" crc="4098427239" ref="index"/>
+    <file name="u65489-112.png" crc="4108973051" ref="index"/>
     <file name="u65488-72.png" crc="284911585" ref="index"/>
     <file name="u655392.png" crc="3911560314" ref="index"/>
     <file name="u65539-r2.png" crc="322559009" ref="index"/>
@@ -459,7 +458,7 @@
     <file name="u65412_states-r4.png" crc="4254104875" ref="index"/>
     <file name="u65413-54.png" crc="231729976" ref="index"/>
     <file name="u65487-73.png" crc="426799765" ref="index"/>
-    <file name="u65489-113.png" crc="4007711314" ref="index"/>
+    <file name="u65489-113.png" crc="3958712133" ref="index"/>
     <file name="u65488-73.png" crc="258587896" ref="index"/>
     <file name="u655393.png" crc="3870103603" ref="index"/>
     <file name="u65539-r3.png" crc="394116919" ref="index"/>
@@ -483,7 +482,7 @@
     <file name="u65412_states-r5.png" crc="62143723" ref="index"/>
     <file name="u65413-55.png" crc="3823270149" ref="index"/>
     <file name="u65487-74.png" crc="4023223509" ref="index"/>
-    <file name="u65489-114.png" crc="4257262663" ref="index"/>
+    <file name="u65489-114.png" crc="19689894" ref="index"/>
     <file name="u65488-74.png" crc="166228314" ref="index"/>
     <file name="u65414-64.png" crc="4250008291" ref="index"/>
     <file name="u7254.png" crc="4292165173" ref="index"/>
@@ -537,14 +536,14 @@
     <file name="u19476-66.png" crc="4282885380" ref="index"/>
     <file name="speaker icon-u27957-fr5.png" crc="3850698977" ref="index"/>
     <file name="u19470-66.png" crc="4293858441" ref="index"/>
-    <file name="register bg 460x215-26-crop-u654912.png" crc="198359264" seo="true" ref="index">
+    <file name="register bg 460x215-26-crop-u654912.png" crc="139203568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1374-75.png" crc="3936836310" ref="index"/>
     <file name="u1380-115.png" crc="4170681496" ref="index"/>
     <file name="u14190-75.png" crc="504522990" ref="index"/>
     <file name="u65487-75.png" crc="3936836310" ref="index"/>
-    <file name="u65489-115.png" crc="4170681496" ref="index"/>
+    <file name="u65489-115.png" crc="4220875732" ref="index"/>
     <file name="u65488-75.png" crc="504522990" ref="index"/>
     <file name="u65410-105.png" crc="122978500" ref="index"/>
     <file name="u65412_states6.png" crc="253775564" ref="index"/>
@@ -742,7 +741,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="ravi-mobr.gif" crc="352153356" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="ritwik-mobr.gif" crc="4054997785" ref="index">
@@ -1476,18 +1474,21 @@
     <file name="team_r-crop-u937705.jpg" crc="223695478" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
-    <file name="pasted image 1055x829-crop-u653622.png" crc="461454481" seo="true" ref="index">
+    <file name="pasted image 1055x829-crop-u653622.png" crc="3939888397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 1544x12661123x921.png" crc="148069576" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u45965-104.png" crc="516752700" ref="index"/>
-    <file name="u2104-105.png" crc="3962786750" ref="index"/>
-    <file name="u2109_states5.png" crc="69052287" ref="index"/>
-    <file name="u2109_states-r5.png" crc="4018149" ref="index"/>
+    <file name="sophia-david_mobr.jpg" crc="472360010" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sophia webr.jpg" crc="3914952035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="65089751" seo="true" mt="1554219362731" redirect="true"/>
+  <file name="index.html" crc="103628944" seo="true" mt="1554220365053" redirect="true"/>
   <file name="sponsors.html" crc="337655750" seo="true" mt="1554219362458" redirect="true"/>
   <file name="past-speakers.html" crc="227564625" seo="true" mt="1554214671110" redirect="true"/>
   <file name="team.html" crc="4189734154" seo="true" mt="1554216220066" redirect="true"/>
