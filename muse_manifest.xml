@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554220383440">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554220899980">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
-    <file name="index.css" crc="3818557682" ref="index"/>
-    <file name="nomq_index.css" crc="4062735804" ref="index"/>
+    <file name="index.css" crc="2092139" ref="index"/>
+    <file name="nomq_index.css" crc="535003584" ref="index"/>
     <file name="sponsors.css" crc="4129138313" ref="sponsors"/>
     <file name="nomq_sponsors.css" crc="457242543" ref="sponsors"/>
     <file name="past-speakers.css" crc="286703908" ref="past-speakers"/>
@@ -438,16 +438,16 @@
     <file name="u65487-72.png" crc="4098427239" ref="index"/>
     <file name="u65489-112.png" crc="4108973051" ref="index"/>
     <file name="u65488-72.png" crc="284911585" ref="index"/>
-    <file name="u655392.png" crc="3911560314" ref="index"/>
-    <file name="u65539-r2.png" crc="322559009" ref="index"/>
-    <file name="u655592.png" crc="254385566" ref="index"/>
-    <file name="u65559-r2.png" crc="25076817" ref="index"/>
-    <file name="u655472.png" crc="63025614" ref="index"/>
-    <file name="u65547-r2.png" crc="97033285" ref="index"/>
-    <file name="u655192.png" crc="4201972916" ref="index"/>
-    <file name="u65519-r2.png" crc="229989272" ref="index"/>
-    <file name="u655132.png" crc="27300735" ref="index"/>
-    <file name="u65513-r2.png" crc="3902575144" ref="index"/>
+    <file name="u655392.png" crc="3833858655" ref="index"/>
+    <file name="u65539-r2.png" crc="414333375" ref="index"/>
+    <file name="u655592.png" crc="218467780" ref="index"/>
+    <file name="u65559-r2.png" crc="523754926" ref="index"/>
+    <file name="u655472.png" crc="4055127515" ref="index"/>
+    <file name="u65547-r2.png" crc="4141111519" ref="index"/>
+    <file name="u655192.png" crc="131865485" ref="index"/>
+    <file name="u65519-r2.png" crc="3980430937" ref="index"/>
+    <file name="u655132.png" crc="4273950205" ref="index"/>
+    <file name="u65513-r2.png" crc="3915462296" ref="index"/>
     <file name="u65414-63.png" crc="320948908" ref="index"/>
     <file name="u65368-103.png" crc="4030950577" ref="index"/>
     <file name="u65370_states3.png" crc="436248148" ref="index"/>
@@ -556,14 +556,14 @@
     <file name="u65406-4.png" crc="103116870" ref="index"/>
     <file name="u65414-65.png" crc="4022431218" ref="index"/>
     <file name="u55624-6.png" crc="3867096024" ref="sponsors"/>
-    <file name="pasted image 1055x829-crop-u55677.png" crc="129580372" seo="true" ref="sponsors">
+    <file name="pasted image 1055x829-crop-u55677.png" crc="3762875679" seo="true" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
     </file>
     <file name="u55679-10.png" crc="347181674" ref="sponsors"/>
     <file name="u55680-10.png" crc="450688643" ref="sponsors"/>
     <file name="u55682_states.png" crc="329934955" ref="sponsors"/>
     <file name="u55682_states-r.png" crc="79849176" ref="sponsors"/>
-    <file name="pasted image 1055x829-crop-u59991.png" crc="338921167" seo="true" ref="sponsors">
+    <file name="pasted image 1055x829-crop-u59991.png" crc="193790588" seo="true" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
     </file>
     <file name="u59993-10.png" crc="247419606" ref="sponsors"/>
@@ -655,8 +655,8 @@
     <file name="u97429-45.png" crc="3950338678" ref="sponsors"/>
     <file name="u98143.png" crc="234083805" ref="index"/>
     <file name="u98143-r.png" crc="302444907" ref="index"/>
-    <file name="u981432.png" crc="5741131" ref="index"/>
-    <file name="u98143-r2.png" crc="34023692" ref="index"/>
+    <file name="u981432.png" crc="3980091305" ref="index"/>
+    <file name="u98143-r2.png" crc="15157900" ref="index"/>
     <file name="u981433.png" crc="4095072525" ref="index"/>
     <file name="u98143-r3.png" crc="4246045718" ref="index"/>
     <file name="u981434.png" crc="512023599" ref="index"/>
@@ -1488,8 +1488,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="103628944" seo="true" mt="1554220365053" redirect="true"/>
-  <file name="sponsors.html" crc="337655750" seo="true" mt="1554219362458" redirect="true"/>
+  <file name="index.html" crc="3804479501" seo="true" mt="1554220878228" redirect="true"/>
+  <file name="sponsors.html" crc="485015947" seo="true" mt="1554220685099" redirect="true"/>
   <file name="past-speakers.html" crc="227564625" seo="true" mt="1554214671110" redirect="true"/>
   <file name="team.html" crc="4189734154" seo="true" mt="1554216220066" redirect="true"/>
 </manifest>
