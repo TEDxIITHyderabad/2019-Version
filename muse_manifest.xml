@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554223277328">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554225199487">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
-    <file name="index.css" crc="112633952" ref="index"/>
-    <file name="nomq_index.css" crc="4062735804" ref="index"/>
-    <file name="sponsors.css" crc="4208107120" ref="sponsors"/>
-    <file name="nomq_sponsors.css" crc="3785155198" ref="sponsors"/>
+    <file name="index.css" crc="4107643065" ref="index"/>
+    <file name="nomq_index.css" crc="535003584" ref="index"/>
+    <file name="sponsors.css" crc="79706570" ref="sponsors"/>
+    <file name="nomq_sponsors.css" crc="128541410" ref="sponsors"/>
     <file name="past-speakers.css" crc="3764583510" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="521760111" ref="past-speakers"/>
     <file name="team.css" crc="500616546" ref="team"/>
@@ -399,7 +399,7 @@
     <file name="u65412_states-r.png" crc="76555766" ref="index"/>
     <file name="u65413-5.png" crc="3761464447" ref="index"/>
     <file name="u65414-6.png" crc="3867096024" ref="index"/>
-    <file name="pasted image 1055x829-crop-u65362.png" crc="4287040930" seo="true" ref="index">
+    <file name="pasted image 1055x829-crop-u65362.png" crc="19604923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u65368-10.png" crc="450688643" ref="index"/>
@@ -1393,10 +1393,6 @@
       <caption webpage="team" alt=""/>
     </file>
     <file name="caprusit---gold-partnerr-u97128-fr.png" crc="320009677" ref="sponsors"/>
-    <file name="ola - cab partner.png" crc="3797027758" ref="sponsors">
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-    </file>
     <file name="popicorn-r.png" crc="344984980" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
     </file>
@@ -1411,17 +1407,14 @@
     <file name="shubang-r-u97136-fr.png" crc="4162476442" ref="sponsors"/>
     <file name="shutterstock-r-u97132-fr.png" crc="3805253575" ref="sponsors"/>
     <file name="caprusit---gold-partnerr-u97128-fr3.png" crc="3809436803" ref="sponsors"/>
-    <file name="ola - cab partner-u97134-fr.png" crc="4164083104" ref="sponsors"/>
     <file name="popicorn-r-u97130-fr2.png" crc="264848112" ref="sponsors"/>
     <file name="shubang-r-u97136-fr2.png" crc="3867682344" ref="sponsors"/>
     <file name="shutterstock-r-u97132-fr2.png" crc="4025213721" ref="sponsors"/>
-    <file name="ola - cab partner-u97134-fr2.png" crc="260733901" ref="sponsors"/>
     <file name="shubang-r-u97136-fr3.png" crc="4040160032" ref="sponsors"/>
     <file name="caprusit---gold-partnerr-u97128-fr4.png" crc="312747851" ref="sponsors"/>
     <file name="popicorn-r-u97130-fr3.png" crc="406068503" ref="sponsors"/>
     <file name="shutterstock-r-u97132-fr3.png" crc="4024619320" ref="sponsors"/>
     <file name="caprusit---gold-partnerr-u97128-fr5.png" crc="3935911674" ref="sponsors"/>
-    <file name="ola - cab partner-u97134-fr3.png" crc="387843523" ref="sponsors"/>
     <file name="shubang-r-u97136-fr4.png" crc="24310554" ref="sponsors"/>
     <file name="popicorn-r-u97130-fr4.png" crc="484930591" ref="sponsors"/>
     <file name="shutterstock-r-u97132-fr4.png" crc="4001372175" ref="sponsors"/>
@@ -1460,7 +1453,7 @@
     <file name="team_r-crop-u937705.jpg" crc="223695478" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
-    <file name="pasted image 1055x829-crop-u653622.png" crc="4083467880" seo="true" ref="index">
+    <file name="pasted image 1055x829-crop-u653622.png" crc="3939888397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 1544x12661123x921.png" crc="148069576" seo="true" ref="index">
@@ -1506,9 +1499,13 @@
     <file name="u98521.png" crc="4246381147" ref="sponsors"/>
     <file name="u98521-r.png" crc="4246381147" ref="sponsors"/>
     <file name="u98521-a.png" crc="4246381147" ref="sponsors"/>
+    <file name="ola-webr.png" crc="341954084" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="ola-webr-u97134-fr.png" crc="334089260" ref="sponsors"/>
   </folder>
-  <file name="index.html" crc="3845320290" seo="true" mt="1554222167529" redirect="true"/>
-  <file name="sponsors.html" crc="3882969902" seo="true" mt="1554223197399" redirect="true"/>
+  <file name="index.html" crc="3889646930" seo="true" mt="1554225177226" redirect="true"/>
+  <file name="sponsors.html" crc="453128296" seo="true" mt="1554225058847" redirect="true"/>
   <file name="past-speakers.html" crc="3789791255" seo="true" mt="1554222024571" redirect="true"/>
   <file name="team.html" crc="4189734154" seo="true" mt="1554216220066" redirect="true"/>
 </manifest>
