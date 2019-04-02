@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554117501818">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1554197914890">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="4136431047" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="521760111" ref="past-speakers"/>
-    <file name="index.css" crc="279066181" ref="index"/>
-    <file name="nomq_index.css" crc="3871872123" ref="index"/>
+    <file name="index.css" crc="4274054580" ref="index"/>
+    <file name="nomq_index.css" crc="361144749" ref="index"/>
     <file name="sponsors.css" crc="4285565990" ref="sponsors"/>
     <file name="nomq_sponsors.css" crc="4253460574" ref="sponsors"/>
     <file name="team.css" crc="3998886453" ref="team"/>
@@ -123,8 +123,8 @@
     <file name="pasted image 1055x829.png" crc="440379558" seo="true" ref="index:sponsors:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="u1374-7.png" crc="205747335" ref="index"/>
@@ -139,16 +139,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -173,20 +173,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -213,14 +213,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -236,14 +236,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -260,14 +260,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -332,12 +332,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -464,8 +464,8 @@
     <file name="bg web-05.png" crc="474615484" seo="true" ref="index:sponsors:past-speakers:team">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
     </file>
     <file name="1 2.jpg" crc="229869669" ref="index">
@@ -886,45 +886,27 @@
     <file name="u50966-9.png" crc="429339942" ref="past-speakers"/>
     <file name="u50975-4.png" crc="103116870" ref="past-speakers"/>
     <file name="u33657-7.png" crc="4030750845" ref="past-speakers"/>
-    <file name="speakers 2019_mobile-08-u34568-fr.jpg" crc="461359394" ref="index"/>
-    <file name="speakers 2019_mobile-07-u34574-fr.jpg" crc="81211980" ref="index"/>
     <file name="u95499-4.png" crc="3996342949" ref="index"/>
     <file name="u28509-42.png" crc="3849257118" ref="index"/>
     <file name="u65408-4.png" crc="3869332588" ref="index"/>
     <file name="u95499-42.png" crc="3996342949" ref="index"/>
-    <file name="web template-03-u65447-fr.jpg" crc="315259046" ref="index"/>
-    <file name="web template-04-u65459-fr.jpg" crc="349453307" ref="index"/>
     <file name="u28509-43.png" crc="3853743235" ref="index"/>
     <file name="u65408-42.png" crc="128595396" ref="index"/>
     <file name="u95499-43.png" crc="383319712" ref="index"/>
-    <file name="web template-03-u65447-fr2.jpg" crc="260197473" ref="index"/>
-    <file name="web template-04-u65459-fr2.jpg" crc="4040177192" ref="index"/>
     <file name="u28509-44.png" crc="3884484268" ref="index"/>
     <file name="u95499-44.png" crc="3857602165" ref="index"/>
     <file name="u65408-43.png" crc="8679872" ref="index"/>
-    <file name="web template-03-u65447-fr3.jpg" crc="3772617460" ref="index"/>
-    <file name="web template-04-u65459-fr3.jpg" crc="39034246" ref="index"/>
     <file name="tedxiith past speaker banners-25-crop-u95162.png" crc="80232256" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u95160.png" crc="117619148" ref="index"/>
     <file name="u95160-r.png" crc="4257229299" ref="index"/>
     <file name="u95160-a.png" crc="4257229299" ref="index"/>
-    <file name="web template-03-u20944-fr.jpg" crc="86076461" ref="index"/>
-    <file name="web template-04-u21092-fr.jpg" crc="154028627" ref="index"/>
     <file name="u65408-44.png" crc="3878444818" ref="index"/>
     <file name="u28509-45.png" crc="3888114972" ref="index"/>
     <file name="u95499-45.png" crc="35308197" ref="index"/>
     <file name="u28509-46.png" crc="519129678" ref="index"/>
     <file name="u46234-4.png" crc="430630626" ref="index"/>
-    <file name="speakers 2019_mobile-08.jpg" crc="494785184" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="speakers 2019_mobile-07.jpg" crc="122791927" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u95499-46.png" crc="237513784" ref="index"/>
     <file name="caprusit---gold-partner.png" crc="3766128251" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
@@ -1198,11 +1180,8 @@
     <file name="shutterstock-u97132-fr4.png" crc="3914476914" ref="sponsors"/>
     <file name="shubang-u97136-fr4.png" crc="3950565467" ref="sponsors"/>
     <file name="u97429-45.png" crc="3950338678" ref="sponsors"/>
-    <file name="ravi narayan_mobile-06-u34571-fr.jpg" crc="180817167" ref="index"/>
-    <file name="ravi narayan_desktop-05-u65456-fr.jpg" crc="4133594438" ref="index"/>
     <file name="u98143.png" crc="234083805" ref="index"/>
     <file name="u98143-r.png" crc="302444907" ref="index"/>
-    <file name="ravi narayan_desktop-05-u65456-fr2.jpg" crc="405810473" ref="index"/>
     <file name="facebook-logo-in-circular-button-outlined-social-symbol copy-crop-u65503.png" crc="4083915569" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1214,19 +1193,13 @@
     </file>
     <file name="u981432.png" crc="38073350" ref="index"/>
     <file name="u98143-r2.png" crc="473272894" ref="index"/>
-    <file name="ravi narayan_desktop-05-u65456-fr3.jpg" crc="392271474" ref="index"/>
     <file name="u981433.png" crc="4095072525" ref="index"/>
     <file name="u98143-r3.png" crc="4246045718" ref="index"/>
-    <file name="ravi narayan_desktop-05-u21125-fr.jpg" crc="531844765" ref="index"/>
     <file name="u981434.png" crc="512023599" ref="index"/>
     <file name="u98143-r4.png" crc="443346745" ref="index"/>
     <file name="u98322.png" crc="4246381147" ref="index"/>
     <file name="u98322-r.png" crc="4246381147" ref="index"/>
     <file name="u98322-a.png" crc="4246381147" ref="index"/>
-    <file name="ravi narayan_mobile-06.jpg" crc="294201900" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="facebook-logo-in-circular-button-outlined-social-symbol copy-crop-u99839.png" crc="4083915569" seo="true" ref="sponsors">
       <caption webpage="sponsors" alt=""/>
     </file>
@@ -1421,14 +1394,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
-      <caption webpage="sponsors" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
       <caption webpage="team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
       <caption webpage="past-speakers" alt=""/>
@@ -1483,8 +1456,39 @@
     <file name="u106088-r4.png" crc="443346745" ref="sponsors"/>
     <file name="u1066224.png" crc="330167849" ref="sponsors"/>
     <file name="u106622-r4.png" crc="3771177363" ref="sponsors"/>
+    <file name="amala-mobr.gif" crc="238695757" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanif-mobr.gif" crc="209072474" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ravi-mobr.gif" crc="352153356" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ritwik-mobr.gif" crc="4054997785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asif-mobr.gif" crc="509714628" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amal-webr.gif" crc="4148576603" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanif-kureshi-webr.gif" crc="78738093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ravi-narayan-webr.gif" crc="3908315438" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ritwik-webr.gif" crc="4150590107" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asif-webr.gif" crc="231065138" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="506114572" seo="true" mt="1554117484671" redirect="true"/>
+  <file name="index.html" crc="450632560" seo="true" mt="1554197899154" redirect="true"/>
   <file name="sponsors.html" crc="409663779" seo="true" mt="1554021255043" redirect="true"/>
   <file name="past-speakers.html" crc="3974708366" seo="true" mt="1553953234662" redirect="true"/>
   <file name="team.html" crc="4086519303" seo="true" mt="1554021542049" redirect="true"/>
