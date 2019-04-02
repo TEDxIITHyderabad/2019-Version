@@ -6,24 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17280007556_04fb8c77ff_k.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17098221047_9b092b036e_k.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17305733725_16bc5ff088_k.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17280007556_04fb8c77ff_k-crop-u7888.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17098221047_9b092b036e_k-crop-u7951.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17305733725_16bc5ff088_k-crop-u8077.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201344x1589.png</image:loc>
     </image:image>
     <image:image>
@@ -48,15 +30,6 @@
       <image:loc>http://www.tedxiithyderabad.com/images/social-linkedin-circular-button.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17280007556_04fb8c77ff_k-crop-u78882.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17098221047_9b092b036e_k-crop-u79512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17305733725_16bc5ff088_k-crop-u80772.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201344x1589717x848.png</image:loc>
     </image:image>
     <image:image>
@@ -70,15 +43,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxiith%20past%20speaker%20banners-02-crop-u176202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17280007556_04fb8c77ff_k-crop-u78883.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17098221047_9b092b036e_k-crop-u79513.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17305733725_16bc5ff088_k-crop-u80773.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedx%20vot%20logo%20mobile%20bg-01.jpg</image:loc>
@@ -120,15 +84,6 @@
       <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201544x1266-crop-u65360.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17280007556_04fb8c77ff_k-crop-u78884.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17098221047_9b092b036e_k-crop-u79514.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/17305733725_16bc5ff088_k-crop-u80774.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201544x1266-crop-u653602.png</image:loc>
     </image:image>
     <image:image>
@@ -157,6 +112,51 @@
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedx_logo%20resized%20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-1-crop-u7888.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-2-crop-u7951.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u8077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-1-crop-u78882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-2-crop-u79512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u80772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-1-crop-u78883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-2-crop-u79513.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u80773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-1-crop-u78884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-2-crop-u79514.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u80774.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>http://www.tedxiithyderabad.com/past-speakers.html</loc>
-    <lastmod>2019-03-30</lastmod>
+    <lastmod>2019-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -249,25 +249,19 @@
       <image:loc>http://www.tedxiithyderabad.com/images/social-linkedin-circular-button.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/00014325-crop-u29310.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxposter-01-crop-u29590.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/00014325-crop-u293102.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxposter-01-crop-u295902.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/00014325-crop-u293103.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxposter-01-crop-u295903.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/bg%20web-05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201055x829531x418.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxiith%20past%20speaker%20banners-01-crop-u47125.jpg</image:loc>
@@ -348,13 +342,7 @@
       <image:loc>http://www.tedxiithyderabad.com/images/tedxiith%20past%20speaker%20banners-12-crop-u47658.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/00014325-crop-u293104.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxposter-01-crop-u295904.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/00014325-crop-u88406.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedxposter-01-crop-u88535.jpg</image:loc>
@@ -394,6 +382,21 @@
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/tedx_logo%20resized%20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u29310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u88406.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u293102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u293103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tedxiithyderabad.com/images/web-slide-3-crop-u293104.jpg</image:loc>
     </image:image>
   </url>
   <url>
