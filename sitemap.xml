@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.tedxiithyderabad.com/index.html</loc>
-    <lastmod>2019-04-03</lastmod>
+    <lastmod>2019-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,7 +149,7 @@
   </url>
   <url>
     <loc>http://www.tedxiithyderabad.com/sponsors.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -389,7 +389,7 @@
   </url>
   <url>
     <loc>http://www.tedxiithyderabad.com/team.html</loc>
-    <lastmod>2019-04-03</lastmod>
+    <lastmod>2019-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -409,9 +409,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/bg%20web-05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/pasted%20image%201055x829531x418.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.tedxiithyderabad.com/images/npc_3-crop-u94135.jpg</image:loc>
@@ -447,19 +444,19 @@
       <image:loc>http://www.tedxiithyderabad.com/images/tedlogo-black.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/team_r-crop-u93770.jpg</image:loc>
+      <image:loc>http://www.tedxiithyderabad.com/images/team-pic-crop-u93770.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/team_r-crop-u937702.jpg</image:loc>
+      <image:loc>http://www.tedxiithyderabad.com/images/team-pic-crop-u937702.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/team_r-crop-u937703.jpg</image:loc>
+      <image:loc>http://www.tedxiithyderabad.com/images/team-pic-crop-u937703.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/team_r-crop-u937704.jpg</image:loc>
+      <image:loc>http://www.tedxiithyderabad.com/images/team-pic-crop-u937704.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.tedxiithyderabad.com/images/team_r-crop-u937705.jpg</image:loc>
+      <image:loc>http://www.tedxiithyderabad.com/images/team-pic-crop-u937705.jpg</image:loc>
     </image:image>
   </url>
   <url>
